@@ -56,7 +56,7 @@ echo "le fichier et configurer"
 sleep 3
 echo ""
 echo "le demarage du service !!"
- sleep 3
+sleep 3
 systemctl restart isc-dhcp-server
 
 wait
